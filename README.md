@@ -12,8 +12,8 @@ LK Deliveries is our CSEC 3 Cloud Computing final project. It is a Python Flet f
 
 ## Submission Links
 
-- **Live Demo URL:** lk-deliveries.up.railway.app
-- **Video Presentation:** [Paste your YouTube or shared video link here]
+- **Live Demo URL:** [lk-deliveries.up.railway.app](https://lk-deliveries.up.railway.app/)
+- **Video Presentation:** [\[Video\]](https://drive.google.com/drive/folders/1zSfQy0F_NdDVUzxx2qQEpUQ78pwhMdFk?usp=sharing)
 - **Architecture Diagram:** See `/diagram/`
 - **Deployment Guide:** See `/deployment/`
 - **Cost Report:** See `/report/`
