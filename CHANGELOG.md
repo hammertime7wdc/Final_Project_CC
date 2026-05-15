@@ -4,27 +4,19 @@ All notable project changes and team contributions are recorded here.
 
 ## Project-Wide Changes
 
-### 2026-05-13
-- Created the final submission folder structure in `new-repo/`.
+### 2026-05-15
 - Added separate folders for `diagram/`, `deployment/`, and `report/`.
 - Wrote a full `README.md` for the project overview.
 - Added a deployment guide for Railway in `deployment/DEPLOYMENT.md`.
 - Added a cost report template in `report/cost-estimate.md`.
 - Added folder-level README files so each section has a clear purpose.
-- Reworked the presentation script so it explains why each section matters for grading.
-- Fixed the closing section of the deployment guide so it ends with a real submission checklist.
 
-### 2026-05-12
-- Cleaned up the project description so it matches LK Deliveries instead of generic cloud app wording.
-- Updated report wording to sound more like a student-written submission.
-- Added a Railway screenshot placeholder and clarified what should be captured.
-
-### 2026-05-11
+### 2026-05-15
 - Reviewed the project structure and started organizing the final deliverables.
 - Separated the main submission items from the app source code.
 - Began drafting the documentation needed for the rubric.
 
-### 2026-05-10
+### 2026-05-15
 - Confirmed the Railway deployment direction for the project.
 - Started collecting the pieces needed for architecture, deployment, and cost reporting.
 
